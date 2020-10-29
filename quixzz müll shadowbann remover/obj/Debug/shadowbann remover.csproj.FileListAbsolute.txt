@@ -1,0 +1,6 @@
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\bin\Debug\shadowbann remover.exe
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\bin\Debug\shadowbann remover.pdb
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\obj\Debug\shadowbann remover.csprojAssemblyReference.cache
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\obj\Debug\shadowbann remover.csproj.CoreCompileInputs.cache
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\obj\Debug\shadowbann remover.exe
+F:\Users\abtro\Desktop\quixz z sein müll\shadowbann remover\obj\Debug\shadowbann remover.pdb

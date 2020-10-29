@@ -1,2 +1,1 @@
-# Tiktoker-Programme-leak
-Hier werden Sachen von .quixzz , dx bender , vipex und vielen anderen geleakt 
+These tools are complete shit and dont even work. Dont bother hating .quixzz on tiktok

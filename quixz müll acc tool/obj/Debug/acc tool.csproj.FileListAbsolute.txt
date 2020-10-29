@@ -1,0 +1,6 @@
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\bin\Debug\acc tool.exe
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\bin\Debug\acc tool.pdb
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\obj\Debug\acc tool.csprojAssemblyReference.cache
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\obj\Debug\acc tool.csproj.CoreCompileInputs.cache
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\obj\Debug\acc tool.exe
+F:\Users\abtro\Desktop\Quixzz Fake Tools Leak\quixz müll acc tool\obj\Debug\acc tool.pdb
