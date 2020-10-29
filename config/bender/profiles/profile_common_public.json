@@ -1,0 +1,18 @@
+{
+  "created": "2020-10-24T21:41:23.243Z",
+  "updated": "2020-10-24T21:41:23.243Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "bender",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": ""
+    }
+  },
+  "_id": "bender"
+}
